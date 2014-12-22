@@ -36,9 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-If you knovv not me, you know no bodie: or, The troubles of Queene ElizabethIf you know not me, you 
+
 #####Body#####
-If you knovv not me, you know no bodie: or, The troubles of Queene ElizabethIf you know not me, you 
+
+1. If you knovv not me, You know no bodie: Or, The troubles of Queene ELIZABETH.
+
 **Types of content**
 
   * There are 1430 **verse** lines!
